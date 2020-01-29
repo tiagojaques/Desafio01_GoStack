@@ -1,0 +1,12 @@
+{
+  "name": "Desafio01",
+  "version": "1.0.0",
+  "description": "Desafio 1: Conceitos do NodeJS",
+  "main": "index.js",
+  "repository": "https://github.com/tiagojaques/Desafio01_GoStack",
+  "author": "Tiago Jaques",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
